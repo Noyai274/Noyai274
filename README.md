@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Coralogix**
 
-- 📫 How to reach me **noya.itzhaki@coralogix.com**
+- 📫 How to reach me **noinoya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
