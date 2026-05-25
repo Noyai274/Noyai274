@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Noya Itzhaki</h1>
-<h3 align="center">A passionate frontend/full-stack developer from Israel</h3>
+<h3 align="center">A IaC software developer from Israel</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noyai274&label=Profile%20views&color=0e75b6&style=flat" alt="noyai274" /> </p>
 
-- 🔭 I’m currently working on **Regex generator**
+- 🔭 I’m currently working on **Entity testing feature**
 
-- 🌱 I’m currently learning **To improve React.js skills**
+- 🌱 I’m currently learning **To improve Rust skills**
 
-- 👯 I’m looking to collaborate on **Angular projects**
+- 👯 I’m looking to collaborate on **Go projects**
 
 - 🤝 I’m looking for help with **AI learning**
 
-- 💬 Ask me about **React, Typescript, Pixel perfect**
+- 💬 Ask me about **Coralogix**
 
-- 📫 How to reach me **noinoya@gmail.com**
+- 📫 How to reach me **noya.itzhaki@coralogix.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noyai274&show_icons=true&locale=en&layout=compact" alt="noyai274" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noyai274&" alt="noyai274" /></p>
-
